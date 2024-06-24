@@ -1,11 +1,9 @@
-Código relacionado al **cuarto desafío** llamado **Sugerencia de videos** del módulo 4 **Programación avanzada en JavaScript** de la beca **Desarrollo de aplicaciones Full Stack Javascript Trainee** dictada por Desafío Latam. El desafío es evaluado.
+Código relacionado a **"cuarto desafío"** - **"Sugerencia de videos"** del módulo 4 **"Programación avanzada en JavaScript"** de la beca **"Desarrollo de aplicaciones Full Stack Javascript Trainee"** dictada por Desafío Latam.
 
-Los requisitos del proyecto son los siguientes:
+<h1> REQUISITOS </h1>
 
 ![Requisitos: Página 1 y 2](./assets/img/screenshots/requisitos_1_2-min.jpg)
 ![Requisitos: Página 3 y 4](./assets/img/screenshots/requisitos_3_4-min.jpg)
-
-# Requerimientos Cumplidos
 
 ### 1. Requisito (1))
 
